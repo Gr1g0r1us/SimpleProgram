@@ -1,0 +1,12 @@
+D:\Study\6 семестр\СП\SPlabLis\Libs\bin\Debug\Libs.dll
+D:\Study\6 семестр\СП\SPlabLis\Libs\bin\Debug\Libs.pdb
+D:\Study\6 семестр\СП\SPlabLis\Libs\obj\Debug\Libs.csprojAssemblyReference.cache
+D:\Study\6 семестр\СП\SPlabLis\Libs\obj\Debug\Libs.csproj.CoreCompileInputs.cache
+D:\Study\6 семестр\СП\SPlabLis\Libs\obj\Debug\Libs.dll
+D:\Study\6 семестр\СП\SPlabLis\Libs\obj\Debug\Libs.pdb
+E:\Study\2019-2021\6 семестр\СП\SPlabLis\Libs\bin\Debug\Libs.dll
+E:\Study\2019-2021\6 семестр\СП\SPlabLis\Libs\bin\Debug\Libs.pdb
+E:\Study\2019-2021\6 семестр\СП\SPlabLis\Libs\obj\Debug\Libs.csproj.AssemblyReference.cache
+E:\Study\2019-2021\6 семестр\СП\SPlabLis\Libs\obj\Debug\Libs.csproj.CoreCompileInputs.cache
+E:\Study\2019-2021\6 семестр\СП\SPlabLis\Libs\obj\Debug\Libs.dll
+E:\Study\2019-2021\6 семестр\СП\SPlabLis\Libs\obj\Debug\Libs.pdb
